@@ -1,0 +1,1 @@
+REST JERSEY Maven project
